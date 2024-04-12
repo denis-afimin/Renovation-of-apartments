@@ -151,7 +151,7 @@ const allSection = document.querySelectorAll('section');
 
 const optionsAppearentceSection = {
   root: null,
-  threshold: 0.25,
+  threshold: 0.15,
 };
 
 const callbackAppearentceSection = function (entries, observer) {
